@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @triciajoyz - Real name is Tricia Johansson!
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m here to experiment with code and I'm still learning...
 - 📫 You can contact me on hello@triciajoyz.com
 
