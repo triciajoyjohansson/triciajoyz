@@ -10,7 +10,7 @@ Coming soon
 <h1>Education & Resume</h1>
 Coming soon
 
-<h1>More about me<h1>
+<h1>More about me</h1>
 Coming soon
 
 
