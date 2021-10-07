@@ -4,9 +4,13 @@
 - 💞️ I’m here to experiment with code and I'm still learning...
 - 📫 You can contact me on hello@triciajoyz.com
 
-- Elsewhere: Coming soon!
+<h1>Coding Profiles elsewhere</h1>
+Coming soon
 
 <h1>Education & Resume</h1>
+Coming soon
+
+<h1>More about me<h1>
 Coming soon
 
 
