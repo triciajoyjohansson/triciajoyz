@@ -6,7 +6,7 @@
 
 <h1>Coding Profiles elsewhere</h1>
 Please visit my codes on SoloLearn and CodePen!<br>
-- <a gref="https://www.sololearn.com/profile/17250751" target="_blank">SoloLearn profile</a> <br>
+- https://www.sololearn.com/profile/17250751 <br>
 - https://www.codepen.io/triciajohansson
 
 <h1>Education & Resume</h1>
