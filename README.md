@@ -5,8 +5,8 @@
 - 📫 You can contact me on triciajoy@vivaldi.net
 
 <h1>Coding Profiles elsewhere</h1>
-Please visit my codes on SoloLearn and CodePen!
-- https://www.sololearn.com/profile/17250751
+Please visit my codes on SoloLearn and CodePen!<br>
+- https://www.sololearn.com/profile/17250751 <br>
 - https://www.codepen.io/triciajohansson
 
 <h1>Education & Resume</h1>
