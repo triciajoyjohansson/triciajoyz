@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding web apps, and web development in general.
 - 🌱 I’m currently learning JavaScript and Python.
 - 💞️ I’m here to experiment with code and I'm still learning...
-- 📫 You can contact me on hello@triciajoyz.com
+- 📫 You can contact me on triciajoy@vivaldi.net
 
 <h1>Coding Profiles elsewhere</h1>
 Coming soon
