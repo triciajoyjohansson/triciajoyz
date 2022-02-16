@@ -4,7 +4,7 @@
 - 💞️ I’m here to experiment with code and I'm still learning...
 - 📫 You can contact me on triciajoy@vivaldi.net
 
-<h1>Coding Profiles elsewhere</h1>
+<h1>My codes</h1>
 Please visit my codes on SoloLearn and CodePen!<br>
 - https://www.sololearn.com/profile/17250751 <br>
 - https://www.codepen.io/triciajohansson
