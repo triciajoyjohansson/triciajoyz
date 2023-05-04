@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @triciajoyz - Real name is Tricia Johansson!
+- 👋 Hi, I’m Tricia!
 - 👀 I’m interested in coding web apps, and web development in general.
-- 🌱 I’m currently learning JavaScript and Python.
+- 🌱 I’m currently learning JavaScript and Php so I can build my own web app about mental health for autistic people.
 - 💞️ I’m here to experiment with code and I'm still learning...
-- 📫 You can contact me on triciajoy@vivaldi.net
+- 📫 You can contact me on my website: coming soon!
 
 <h1>My codes</h1>
 Please visit my codes on SoloLearn and CodePen!<br>
